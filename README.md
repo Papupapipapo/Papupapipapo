@@ -1,8 +1,20 @@
+## Papupapipapo
+### Most likely in your area
+
+> A true artist is not one who is inspired, but one who inspires others. - Salvador Dali
+
+
+~~~
+while(alive){
+  keepLearning(Javascript,Java,PHP,CSS,HTML)
+}
+~~~
+
 - 👋 Hi, I’m @Papupapipapo
 - 👀 I’m interested in you
 - 🌱 I’m currently learning Javascript, Java, PHP, CSS, 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to learn about Game Programming and 3D Geometry
+- 📫 Look [pauentuzona.com](here) to see me 
 
 <!---
 Papupapipapo/Papupapipapo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
