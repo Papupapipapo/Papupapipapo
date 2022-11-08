@@ -10,7 +10,7 @@ while(alive){
 - 👀 I’m interested in art
 - 🌱 I’m currently learning C++, C#, WebGL, ThreeJS
 - 💞️ I’m looking to learn about Game Programming and 3D Geometry
-- 📫 Look [https://www.pausardasanchez.com](here) to see me 
+- 📫 Look [here](https://www.pausardasanchez.com) to see me 
 
 
 > A true artist is not one who is inspired, but one who inspires others. - Salvador Dali
