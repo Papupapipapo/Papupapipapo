@@ -1,4 +1,4 @@
-### Most likely in your area
+### Keep on keeping up
 
 ~~~
 while(alive){
@@ -7,10 +7,10 @@ while(alive){
 ~~~
 
 - 👋 Hi, I’m @Papupapipapo
-- 👀 I’m interested in you
-- 🌱 I’m currently learning Javascript, Java, PHP, CSS, 
+- 👀 I’m interested in art
+- 🌱 I’m currently learning C++, C#, WebGL, ThreeJS
 - 💞️ I’m looking to learn about Game Programming and 3D Geometry
-- 📫 Look [pauentuzona.com](here) to see me 
+- 📫 Look [pausardasanchez.com](here) to see me 
 
 
 > A true artist is not one who is inspired, but one who inspires others. - Salvador Dali
