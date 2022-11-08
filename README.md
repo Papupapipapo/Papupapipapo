@@ -2,7 +2,7 @@
 
 ~~~
 while(alive){
-  keepLearning(Javascript,Java,PHP,CSS,HTML)
+  keepLearning()
 }
 ~~~
 
